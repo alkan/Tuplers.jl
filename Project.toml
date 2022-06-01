@@ -1,4 +1,7 @@
-name = "Tuplegen"
+name = "Tuplers"
 uuid = "8d8f192e-2bb7-11e9-3a3b-fd36ecdba0d6"
 authors = ["Ayhan Alkan <ayhan@ayhanalkan.com>"]
-version = "0.1.0"
+version = "0.5.0"
+
+[deps]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
