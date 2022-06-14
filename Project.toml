@@ -1,4 +1,8 @@
 name = "Tuplers"
 uuid = "ba6d3760-b300-4c53-9eb3-a5419751e959"
 authors = ["Ayhan Alkan <ayhan@ayhanalkan.com>"]
-version = "0.5.2"
+version = "0.5.3"
+
+[compat]
+julia = "1"
+
